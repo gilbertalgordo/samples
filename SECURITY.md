@@ -22,6 +22,6 @@ declined, etc.
 
 
 [![OSSAR](https://github.com/webrtc-org/samples/actions/workflows/ossar.yml/badge.svg?branch=gh-pages)](https://github.com/webrtc-org/samples/actions/workflows/ossar.yml)
-[![PSScriptAnalyzer](https://github.com/webrtc-org/samples/actions/workflows/powershell.yml/badge.svg?branch=gh-pages)](https://github.com/webrtc-org/samples/actions/workflows/powershell.yml)
+[![PSScriptAnalyzer](https://github.com/gilbertalgordo/samples/actions/workflows/powershell.yml/badge.svg)](https://github.com/gilbertalgordo/samples/actions/workflows/powershell.yml)
 
 https://gist.github.com/gilbertalgordo
